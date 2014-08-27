@@ -7,7 +7,7 @@ sudo apt-get install flex
 
 sudo apt-get install bison
 
-Commands to compile the code
+Commands to compile the code :-
 
 bison -d material.y
 
